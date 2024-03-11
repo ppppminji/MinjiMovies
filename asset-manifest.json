@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MinjiMovies/static/css/main.f71509ee.css",
+    "main.js": "/MinjiMovies/static/js/main.96a2f8db.js",
+    "index.html": "/MinjiMovies/index.html",
+    "main.f71509ee.css.map": "/MinjiMovies/static/css/main.f71509ee.css.map",
+    "main.96a2f8db.js.map": "/MinjiMovies/static/js/main.96a2f8db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f71509ee.css",
+    "static/js/main.96a2f8db.js"
+  ]
+}
