@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MinjiMovies/static/css/main.f71509ee.css",
-    "main.js": "/MinjiMovies/static/js/main.96a2f8db.js",
+    "main.js": "/MinjiMovies/static/js/main.5fb0412c.js",
     "index.html": "/MinjiMovies/index.html",
     "main.f71509ee.css.map": "/MinjiMovies/static/css/main.f71509ee.css.map",
-    "main.96a2f8db.js.map": "/MinjiMovies/static/js/main.96a2f8db.js.map"
+    "main.5fb0412c.js.map": "/MinjiMovies/static/js/main.5fb0412c.js.map"
   },
   "entrypoints": [
     "static/css/main.f71509ee.css",
-    "static/js/main.96a2f8db.js"
+    "static/js/main.5fb0412c.js"
   ]
 }
